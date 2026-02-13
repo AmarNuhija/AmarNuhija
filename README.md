@@ -29,7 +29,7 @@
 ---
 
 # 📊 GitHub Stats
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AmarNuhija&show_icons=true&theme=tokyonight&v=1)
+
 
 ![Streak](https://streak-stats.demolab.com?user=AmarNuhija&theme=tokyonight)
 
