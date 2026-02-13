@@ -34,11 +34,11 @@
 
 # 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=DEINUSERNAME\&show_icons=true\&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=AmarNuhija\&show_icons=true\&theme=tokyonight)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=DEINUSERNAME\&theme=tokyonight)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmarNuhija\&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEINUSERNAME\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmarNuhija\&layout=compact\&theme=tokyonight)
 
 ---
 
