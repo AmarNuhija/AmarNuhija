@@ -1,4 +1,4 @@
-# 👋 Hey, ich bin [Amar Nuhija]
+# 👋 Hey, ich bin Amar Nuhija
 
 💻 Future Developer | 🚀 Learning every day | 🌍 Open for collabs
 
@@ -16,7 +16,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge\&logo=instagram)](DEINLINK)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/amar-nuhija-50b058363/)
-[![Email](https://img.shields.io/badge/Email-grey?style=for-the-badge\&logo=gmail)](mailto:DEINEMAIL)
+[![Email](https://img.shields.io/badge/Email-grey?style=for-the-badge\&logo=gmail)](mailto:amar_n_4@hotmail.com)
 
 ---
 
