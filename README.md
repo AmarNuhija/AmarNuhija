@@ -50,12 +50,13 @@
 
 ---
 
-# ✍️ Dev Philosophy
+# ✍️ Dev Quote
 
-```diff
-+ "Wenn du etwas so machst, wie du es seit zehn Jahren gemacht hast,
-+ dann sind die Chancen gross, dass du es falsch machst."
-! — Charles F. Kettering
+# Wenn du etwas so machst, wie du es seit
+zehn Jahren gemacht hast, dann sind die
+Chancen gross, dass du es falsch machst.
+- Charles F. Kettering
+
 
 ---
 
