@@ -54,7 +54,7 @@
 
 <h2>Wenn du etwas so machst, wie du es seit
 zehn Jahren gemacht hast, dann sind die
-<b></b>Chancen gross, dass du es falsch machst.
+Chancen gross, dass du es falsch machst.
 - Charles F. Kettering</h2>
 
 
