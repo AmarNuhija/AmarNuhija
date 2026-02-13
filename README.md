@@ -1,4 +1,4 @@
-# 👋 Hey, ich bin [Dein Name]
+# 👋 Hey, ich bin [Amar Nuhija]
 
 💻 Future Developer | 🚀 Learning every day | 🌍 Open for collabs
 
@@ -6,17 +6,16 @@
 
 ## 🧠 About Me
 
-* 🔭 Arbeite gerade an eigenen Apps & Projekten
-* 🌱 Lerne aktuell: Web Development & Backend
-* 👯 Suche Zusammenarbeit bei coolen Projekten
-* ⚡ Ziel: Richtig guter Fullstack Developer werden
+* Arbeite gerade an eigenen Apps & Projekten
+* Lerne aktuell: Web Development & Backend
+* Ziel: Richtig guter Fullstack Developer werden
 
 ---
 
 ## 🌐 Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge\&logo=instagram)](DEINLINK)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](DEINLINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/amar-nuhija-50b058363/)
 [![Email](https://img.shields.io/badge/Email-grey?style=for-the-badge\&logo=gmail)](mailto:DEINEMAIL)
 
 ---
