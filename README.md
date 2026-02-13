@@ -15,6 +15,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amar-nuhija-50b058363/)
 [![Email](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail)](mailto:amar_n_4@hotmail.com)
 [![Phone](https://img.shields.io/badge/Phone-+41762129634-green?style=for-the-badge&logo=whatsapp)](tel:+41762129634)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-green?style=for-the-badge&logo=whatsapp)](https://wa.me/41762129634)
 
 ---
 
