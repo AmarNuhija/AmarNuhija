@@ -29,12 +29,11 @@
 ---
 
 # 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=AmarNuhija&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AmarNuhija&show_icons=true&theme=tokyonight&v=1)
 
 ![Streak](https://streak-stats.demolab.com?user=AmarNuhija&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmarNuhija&layout=compact&theme=tokyonight)
-
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AmarNuhija&layout=compact&theme=tokyonight&v=1)
 ---
 
 # 🏆 GitHub Trophies
