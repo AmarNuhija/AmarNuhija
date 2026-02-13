@@ -50,8 +50,12 @@
 
 ---
 
-# ✍️ Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+# ✍️ Dev Quote
+
+“Wenn du etwas so machst, wie du es seit
+zehn Jahren gemacht hast, dann sind die
+Chancen gross, dass du es falsch machst.”
+- Charles F. Kettering
 
 ---
 
