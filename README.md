@@ -33,8 +33,6 @@
 
 ![Streak](https://streak-stats.demolab.com?user=AmarNuhija&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AmarNuhija&layout=compact&theme=tokyonight&v=1)
-
 ---
 
 # ✍️ Random Dev Quote
