@@ -19,7 +19,15 @@
 
 ---
 
-## 🛠 Tech Stack ![JavaScript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript) ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react) ![NodeJS](https://img.shields.io/badge/NodeJS-black?style=for-the-badge&logo=node.js) ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python) ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb) ![HTML](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
+## 🛠 Tech Stack 
+![JavaScript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript) 
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react) 
+![NodeJS](https://img.shields.io/badge/NodeJS-black?style=for-the-badge&logo=node.js) 
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python) 
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb) 
+![casandra](https://img.shields.io/badge/Casandra-black?style=for-the-badge&logo=casandra) 
+![HTML](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5) 
+![CSS](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
 
 ---
 
