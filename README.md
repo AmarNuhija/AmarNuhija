@@ -52,10 +52,15 @@
 
 # ✍️ Dev Quote
 
-“Wenn du etwas so machst, wie du es seit
-zehn Jahren gemacht hast, dann sind die
-Chancen gross, dass du es falsch machst.”
-- Charles F. Kettering
+<p align="center">
+  
+💡 <b><i>"Wenn du etwas so machst, wie du es seit zehn Jahren gemacht hast,<br>
+dann sind die Chancen gross, dass du es falsch machst."</i></b>  
+
+<br><br>
+— <b>Charles F. Kettering</b>
+
+</p>
 
 ---
 
